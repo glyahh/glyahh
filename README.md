@@ -1,29 +1,45 @@
-# Gaolenyue
+**English** · [简体中文](README.zh-CN.md)
 
-**AI Application Engineer · Agent Systems · Verifiable Software Delivery**
+# Gaolenyue · glyahh
 
-I build AI-native software where orchestration, memory, retrieval, tools, and interface quality work as one system. My focus is not code generation alone, but dependable behavior: explicit constraints, observable workflows, reproducible validation, and maintainable delivery.
+**AI Agent Engineering / Java & Python Backend**
 
-## Featured project
+Computer science undergraduate seeking internships in AI agent and application development.
 
-### [threeJs-Ultra](https://github.com/glyahh/threejs-ultra)
+I build AI applications and developer tools, with a focus on tool calling, context management, and validating generated output. I also explore AI-assisted financial research.
 
-> Direction before decoration.
+## Selected Projects
 
-An Agent Skill orchestrator for premium brand websites, product launches, and cinematic Three.js experiences. It combines art direction, production frontend design, anti-template taste review, and selective WebGL specialists into one evidence-driven workflow.
+### [App Cube](https://github.com/glyahh/app-cube)
+An agent-driven application development workbench. Java manages authentication, per-app tasks, and runtime state; Python DeepAgents / LangGraph handles code generation, incremental edits, and context management. WebSocket delivers live interactions, with Docker-backed execution environments. Existing-project import and verification-driven repair workflows remain under active development.
 
-[View the workflow](https://github.com/glyahh/threejs-ultra#how-it-thinks) · [Install the skill](https://github.com/glyahh/threejs-ultra#install) · [Download v1.0.0](https://github.com/glyahh/threejs-ultra/releases/tag/v1.0.0)
+Java · Spring Boot · Python · DeepAgents · LangGraph · PostgreSQL · Docker
 
-## Selected work
+[Refactor Branch](https://github.com/glyahh/app-cube/tree/agent_next)
 
-- [ai-generate-code](https://github.com/glyahh/ai-generate-code) — Evidence-driven AI software synthesis and verifiable artifact delivery.
-- [memory-expand-windows](https://github.com/glyahh/memory-expand-windows) — Experiments in durable memory and context expansion.
+### [Prism · Local Model Gateway Console](https://github.com/glyahh/Agent-router-Pro-Max/tree/main/app)
+A console built around CLIProxyAPI for gateway lifecycle, model routing, configuration, and usage visibility. My work focuses on the console and client integration; the upstream gateway handles inference forwarding.
 
-## Current focus
+[Project](https://github.com/glyahh/Agent-router-Pro-Max/tree/main/app) · [Design Decisions](https://github.com/glyahh/Agent-router-Pro-Max/tree/main/docs/adr)
 
-- **Agentic systems:** tool orchestration, layered memory, hybrid retrieval, and evaluation.
-- **Java engineering:** concurrency, caching, streaming, state consistency, LangChain4j, and LangGraph4j.
-- **Interface systems:** frontend direction, generative UI, WebGL, and interaction quality.
-- **Delivery discipline:** builds, browser evidence, reproducible experiments, and engineering records.
+### [Finance Analysis Max](https://github.com/glyahh/Finance-Analysis-Max)
+A financial research tool exposed through MCP / REST, organizing traceable evidence and calculating returns, volatility, and drawdowns. Currently read-only; it does not execute trades.
 
-I use AI to accelerate implementation while retaining ownership of the constraints, verification, and final behavior.
+Python · MCP · Data Validation · Risk Metrics
+
+[Project](https://github.com/glyahh/Finance-Analysis-Max)
+
+## Open Source Contribution
+
+### [CC-Switch · PR #7774](https://github.com/farion1231/cc-switch/pull/7774)
+Addresses Codex fork-session usage accounting by excluding inherited history from new billable usage, with 11 additional regression tests.
+
+The PR documents before-and-after verification, repeat-scan idempotency, and cross-platform preflight results.
+
+**Submitted; not yet merged** · Status checked: October 8, 2026
+
+## Exploring
+
+- Execution constraints, context management, and validation for coding agents
+- Multi-model client integration and local developer tools
+- AI-assisted financial research and evidence validation
