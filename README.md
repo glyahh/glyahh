@@ -43,3 +43,5 @@ The PR documents before-and-after verification, repeat-scan idempotency, and cro
 - Execution constraints, context management, and validation for coding agents
 - Multi-model client integration and local developer tools
 - AI-assisted financial research and evidence validation
+
+My Afdian creator page is [页面改造实验室](https://afdian.com/a/page-ui-lab), where I am preparing beginner-friendly static-page UI tutorials and HTML/CSS examples; creator verification is pending.
